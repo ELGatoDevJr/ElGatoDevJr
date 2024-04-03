@@ -9,4 +9,5 @@
 
 [![Proyecto CRUD en C#](https://github-readme-stats.vercel.app/api/pin/?username=ELGatoDevJr&repo=PruebaTecnica)](https://github.com/ELGatoDevJr/PruebaTecnica)
 
-<!-- Puedes agregar más secciones según tus preferencias -->
+[![Otro Proyecto Importante](https://github-readme-stats.vercel.app/api/pin/?username=ELGatoDevJr&repo=APEX_ExampleForms)](https://github.com/ELGatoDevJr/APEX_ExampleForms)
+
